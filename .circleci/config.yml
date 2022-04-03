@@ -9,3 +9,4 @@ jobs:
     steps:
       - checkout
       - run: lscpu
+      - run: lscpu
